@@ -1,5 +1,4 @@
-//Name: Xijing Quan
-//Student ID：260765293
+
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.text.*;
