@@ -1,5 +1,4 @@
-//Name: Xijing Quan
-//ID: 260765293
+
 public class SeasonalFruit extends Fruit {
 
 	public SeasonalFruit(String s, double weight, int price) {
