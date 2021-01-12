@@ -1,5 +1,4 @@
-//Name: Xijing Quan
-//ID: 260765293
+
 public class Egg extends MarketProduct {
 	private int number;
 	private int price;
