@@ -1,5 +1,4 @@
-//Name: Xijing Quan
-//ID: 260765293
+
 public class Customer {
 	private String name;
 	private int balance;
