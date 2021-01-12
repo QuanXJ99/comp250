@@ -1,5 +1,4 @@
-//Name: Xijing Quan
-//ID: 260765293
+
 public abstract class MarketProduct {
 	private String name;
 	
