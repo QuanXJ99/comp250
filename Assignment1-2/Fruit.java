@@ -1,5 +1,4 @@
-//Name: Xijing Quan
-//ID: 260765293
+
 public class Fruit extends MarketProduct {
 	private double weight;
 	private int price;
